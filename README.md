@@ -23,7 +23,7 @@ frontend (Next.js/Nuxt.js/Angular) и backend (Node.js/Python/PHP)
 |--------|----------|------|
 | [Organizer](https://github.com/stanis1avs/organizer_backend) | Умный органайзер сообщений с семантическим поиском по эмбеддингам | JS, Node.js, Cassandra, Qdrant, OpenSearch, FastAPI |
 | [Delivery](https://github.com/stanis1avs/delivery_backend) | Приложение для курьеров с авторасчётом маршрутов и Telegram-ботом | Nuxt.js, Express, PostgreSQL, Redis, PostGIS, OSRM |
-| [HotelBooking](https://github.com/stanis1avs/hotelBooking_fullstack) | Полноцикловое бронирование отелей с ролями и realtime-чатом поддержки | Angular, NgRx, NestJS, MongoDB, Apollo, Socket.IO |
+| [HotelBooking](https://github.com/stanis1avs/hotelBooking_fullstack) | Бронирование отелей: три роли, поиск по датам и удобствам, дашборд менеджера с динамикой | Angular, NgRx, NestJS, MongoDB, GraphQL, Socket.IO |
 | [LlmTranslyator](https://github.com/stanis1avs/llm_translyator-TEMPLATE) | Тренажёр разговорного английского на локальном LLM с распознаванием речи | Nuxt.js, FastAPI, Ollama/qwen2.5, Whisper, WebSockets |
 | [Marketplace](https://github.com/stanis1avs/marketplace_backend) | Маркетплейс с парсингом и ML-рекомендациями товаров | Next.js, Redux, Django, PostgreSQL, Celery, Redis, TensorFlow, Webauthn  |
 | [deblur_ml](https://github.com/stanis1avs/deblur_ml) | Нейросеть для устранения размытия изображений через оценку PSF | Python, PyTorch, CUDA, OpenCV |
